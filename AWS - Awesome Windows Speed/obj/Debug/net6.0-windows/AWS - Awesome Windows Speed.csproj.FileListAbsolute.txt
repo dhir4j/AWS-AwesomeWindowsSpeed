@@ -1,0 +1,19 @@
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\bin\Debug\net6.0-windows\AWS - Awesome Windows Speed.exe
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\bin\Debug\net6.0-windows\AWS - Awesome Windows Speed.deps.json
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\bin\Debug\net6.0-windows\AWS - Awesome Windows Speed.runtimeconfig.json
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\bin\Debug\net6.0-windows\AWS - Awesome Windows Speed.dll
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\bin\Debug\net6.0-windows\AWS - Awesome Windows Speed.pdb
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.csproj.AssemblyReference.cache
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS___Awesome_Windows_Speed.Form1.resources
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.csproj.GenerateResource.cache
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.AssemblyInfoInputs.cache
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.AssemblyInfo.cs
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.csproj.CoreCompileInputs.cache
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.csproj.CopyComplete
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.dll
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\refint\AWS - Awesome Windows Speed.dll
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.pdb
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\AWS - Awesome Windows Speed.genruntimeconfig.cache
+C:\Users\kapse\Downloads\Coding\Projects\Windows\AWS - Awesome Windows Speed\AWS - Awesome Windows Speed\obj\Debug\net6.0-windows\ref\AWS - Awesome Windows Speed.dll
