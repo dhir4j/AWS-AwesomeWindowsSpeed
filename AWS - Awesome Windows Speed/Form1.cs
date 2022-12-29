@@ -513,16 +513,49 @@ namespace AWS___Awesome_Windows_Speed
             if (materialSwitch10.Checked)
             {
                 // Open the "This PC" folder when File Explorer is opened
-                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", "LaunchTo", "{20D04FE0-3AEA-1069-A2D8-08002B30309D}");
+                // Set the value of the "LaunchTo" key to 1
+                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", "LaunchTo", 1);
 
-                System.Diagnostics.Process.Start("explorer.exe", "/restart");
+
+                //System.Diagnostics.Process.Start("explorer.exe", "/restart");
             }
             else 
             {
                 // Restore the default behavior of opening the Quick Access folder when File Explorer is opened
-                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", "LaunchTo", "{679f85cb-0220-4080-b29b-5540cc05aab6}");
+                // Set the value of the "LaunchTo" key to 1
+                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", "LaunchTo", 2);
+
 
                 System.Diagnostics.Process.Start("explorer.exe", "/restart");
+            }
+        }
+
+        private void materialSwitch11_CheckedChanged(object sender, EventArgs e)
+        {
+            if (materialSwitch11.Checked)
+            {
+                int transparency = 255;
+
+                // Enable transparency in the taskbar
+                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize", "EnableTransparency", 1);
+
+                // Set the taskbar transparency value
+                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", "TaskbarAcrylicOpacity", transparency);
+
+                // Restart the explorer process to apply the changes
+                System.Diagnostics.Process.Start("explorer.exe", "/restart");
+            }
+            else 
+            {
+                // Disable transparency in the taskbar
+                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize", "EnableTransparency", 0);
+
+                // Reset the taskbar transparency value to the default
+                Registry.SetValue(@"HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", "TaskbarAcrylicOpacity", 0);
+
+                // Restart the explorer process to apply the changes
+                System.Diagnostics.Process.Start("explorer.exe", "/restart");
+
             }
         }
     }

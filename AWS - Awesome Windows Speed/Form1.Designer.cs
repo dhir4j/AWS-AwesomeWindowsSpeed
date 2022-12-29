@@ -43,11 +43,11 @@
             this.materialSwitch8 = new MaterialSkin.Controls.MaterialSwitch();
             this.materialSwitch7 = new MaterialSkin.Controls.MaterialSwitch();
             this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.materialSwitch11 = new MaterialSkin.Controls.MaterialSwitch();
             this.materialSwitch10 = new MaterialSkin.Controls.MaterialSwitch();
             this.materialSwitch9 = new MaterialSkin.Controls.MaterialSwitch();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.materialSwitch11 = new MaterialSkin.Controls.MaterialSwitch();
             this.materialTabControl1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.tabPage3.SuspendLayout();
@@ -253,6 +253,22 @@
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "System Tweaks";
             // 
+            // materialSwitch11
+            // 
+            this.materialSwitch11.AutoSize = true;
+            this.materialSwitch11.Depth = 0;
+            this.materialSwitch11.Location = new System.Drawing.Point(36, 108);
+            this.materialSwitch11.Margin = new System.Windows.Forms.Padding(0);
+            this.materialSwitch11.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.materialSwitch11.MouseState = MaterialSkin.MouseState.HOVER;
+            this.materialSwitch11.Name = "materialSwitch11";
+            this.materialSwitch11.Ripple = true;
+            this.materialSwitch11.Size = new System.Drawing.Size(206, 37);
+            this.materialSwitch11.TabIndex = 2;
+            this.materialSwitch11.Text = "Transparent Taskbar";
+            this.materialSwitch11.UseVisualStyleBackColor = true;
+            this.materialSwitch11.CheckedChanged += new System.EventHandler(this.materialSwitch11_CheckedChanged);
+            // 
             // materialSwitch10
             // 
             this.materialSwitch10.AutoSize = true;
@@ -305,21 +321,6 @@
             this.imageList1.Images.SetKeyName(2, "icons8-remove-50.png");
             this.imageList1.Images.SetKeyName(3, "icons8-rocket-50.png");
             this.imageList1.Images.SetKeyName(4, "icons8-setting-tweaks-50.png");
-            // 
-            // materialSwitch11
-            // 
-            this.materialSwitch11.AutoSize = true;
-            this.materialSwitch11.Depth = 0;
-            this.materialSwitch11.Location = new System.Drawing.Point(36, 108);
-            this.materialSwitch11.Margin = new System.Windows.Forms.Padding(0);
-            this.materialSwitch11.MouseLocation = new System.Drawing.Point(-1, -1);
-            this.materialSwitch11.MouseState = MaterialSkin.MouseState.HOVER;
-            this.materialSwitch11.Name = "materialSwitch11";
-            this.materialSwitch11.Ripple = true;
-            this.materialSwitch11.Size = new System.Drawing.Size(297, 37);
-            this.materialSwitch11.TabIndex = 2;
-            this.materialSwitch11.Text = "Transparent Taskbar Windows 10";
-            this.materialSwitch11.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
