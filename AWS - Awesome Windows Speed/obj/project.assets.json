@@ -41,19 +41,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kapse\\.nuget\\packages\\": {}
+    "C:\\Users\\kapse.DESKTOP-Q00UEST\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kapse\\Downloads\\Coding\\Projects\\Windows\\AWS - Awesome Windows Speed\\AWS - Awesome Windows Speed\\AWS - Awesome Windows Speed.csproj",
+      "projectUniqueName": "C:\\Users\\kapse.DESKTOP-Q00UEST\\Downloads\\Code\\Projects\\Windows\\AWS-AwesomeWindowsSpeed\\AWS - Awesome Windows Speed\\AWS - Awesome Windows Speed.csproj",
       "projectName": "AWS - Awesome Windows Speed",
-      "projectPath": "C:\\Users\\kapse\\Downloads\\Coding\\Projects\\Windows\\AWS - Awesome Windows Speed\\AWS - Awesome Windows Speed\\AWS - Awesome Windows Speed.csproj",
-      "packagesPath": "C:\\Users\\kapse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kapse\\Downloads\\Coding\\Projects\\Windows\\AWS - Awesome Windows Speed\\AWS - Awesome Windows Speed\\obj\\",
+      "projectPath": "C:\\Users\\kapse.DESKTOP-Q00UEST\\Downloads\\Code\\Projects\\Windows\\AWS-AwesomeWindowsSpeed\\AWS - Awesome Windows Speed\\AWS - Awesome Windows Speed.csproj",
+      "packagesPath": "C:\\Users\\kapse.DESKTOP-Q00UEST\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kapse.DESKTOP-Q00UEST\\Downloads\\Code\\Projects\\Windows\\AWS-AwesomeWindowsSpeed\\AWS - Awesome Windows Speed\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kapse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kapse.DESKTOP-Q00UEST\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

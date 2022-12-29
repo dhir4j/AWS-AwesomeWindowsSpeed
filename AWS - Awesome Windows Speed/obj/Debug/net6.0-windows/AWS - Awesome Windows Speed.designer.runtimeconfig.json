@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\kapse\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kapse\\.nuget\\packages"
+      "C:\\Users\\kapse.DESKTOP-Q00UEST\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kapse.DESKTOP-Q00UEST\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
